@@ -101,6 +101,7 @@ Actively Looking 👀
 
 - ### Frameworks
 ---
+<p>
 <img height="24" width="24" src="Assets\icons\vue.svg">
 <img height="24" width="24" src="Assets\icons\nuxt.svg">
 <img height="24" width="24" src="Assets\icons\nodejs.svg">
@@ -108,7 +109,7 @@ Actively Looking 👀
 
 <img height="24" width="24" src="https://threejs.org/files/favicon.ico">
 <img height="24" width="24" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">
-
+</p>
 
 
 <br><br>
