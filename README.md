@@ -45,7 +45,7 @@
 
 <p align="center">I do programming as a Hobby</p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=Job%20Status&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔰Job%20Status&fontSize=32)
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=Tools%20&%20Programming%20Languages&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=💻Language%20and%20🧰Tools%20&%20Programming%20Languages&fontSize=32)
 
 
 
