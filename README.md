@@ -15,14 +15,15 @@
 
 
 <br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
 
-## 🌱 I’m currently learning ...
 ---
 ###   &nbsp; &nbsp; &nbsp; &nbsp; Algorithms and Data Structures
 
 <br><br>
 
-## 👯 I’m looking to collaborate on ...
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=👯%20I’m%20looking%20to%20collaborate%20on%20...&fontSize=32)
+
 ---
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; open source projects
@@ -31,14 +32,16 @@
 
 <br><br>
 
-## 💬 Ask me about ...
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=💬%20Ask%20me%20about%20...&fontSize=32)
+
 ----
 ### &nbsp; &nbsp; &nbsp; &nbsp; anything
 
 
 <br><br> 
 
-## 📫 How to reach me: ...
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=📫%20How%20to%20reach%20me:%20...&fontSize=32)
+
 ---
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
    [<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)
@@ -47,13 +50,16 @@
 
 <br><br>
 
-## ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=⚡%20Fun%20fact:%20...&fontSize=32)
+
 
 ---
 
 ### &nbsp; &nbsp; &nbsp; &nbsp;   I do programming as a Hobby
 
-## Job Status
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=Job%20Status&fontSize=32)
+
+
 
 ---
 
@@ -62,13 +68,15 @@ Actively Looking 👀
 
 <br><br>
 
-## Tools & Programming Languages
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=Tools%20&%20Programming%20Languages&fontSize=32)
+
 
 ---
 
 <br>
 
-- ### Languages
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&section=footer&text=💻%20Languages&fontSize=24)
+
 
 ---
 <p>
@@ -86,7 +94,8 @@ Actively Looking 👀
 
 <br><br>
 
-- ### Tools
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&section=footer&text=🧰%20Tools&fontSize=24)
+
 ---
 <p>
 <img height="24" width="24" src="Assets\icons\npm.svg">
@@ -102,7 +111,8 @@ Actively Looking 👀
 <br>
 <br>
 
-- ### Frameworks
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&section=footer&text=🔮%20Frameworks&fontSize=24)
+
 ---
 <p>
 <img height="24" width="24" src="Assets\icons\vue.svg">
