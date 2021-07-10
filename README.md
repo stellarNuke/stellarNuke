@@ -3,7 +3,7 @@
 ![codewars](https://www.codewars.com/users/stellar_nuke/badges/small)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20I’m%20currently%20working%20on%20...&fontSize=32)
 
-<p align="center"> [<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github/stellarNuke/wingy) </p>
+<p align="center">![<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github/stellarNuke/wingy)</p>
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
 
@@ -32,8 +32,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=📫%20How%20to%20reach%20me:%20...&fontSize=32)
 
 
-  <p align="center">[<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
-   [<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)</p>
+ ![<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
+   ![<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)
 
 
 
