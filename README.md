@@ -4,6 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20I’m%20currently%20working%20on%20...&fontSize=32)
 
 [<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github/stellarNuke/wingy)
+[Wingy unofficial winget UI interface](https://github/stellarNuke/wingy)
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
 
