@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90)
-## Hi There , I am  [Rohit](https://github.com/stellarNuke)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Rohit,&fontSize=32&fontSize=90)](https://github.com/stellarNuke)
 
 ![codewars](https://www.codewars.com/users/stellar_nuke/badges/small)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20I’m%20currently%20working%20on%20...&fontSize=32)
 
-  &nbsp; &nbsp; &nbsp; &nbsp; [<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github/stellarNuke/wingy) 
+<p align="center"> [<img height="32" width="32" src="https://i.imgur.com/TyyL0MG.png">](https://github/stellarNuke/wingy) </p>
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🌱%20I’m%20currently%20learning%20...&fontSize=32)
-###   &nbsp; &nbsp; &nbsp; &nbsp; Algorithms and Data Structures
+
+<p align="center">Algorithms and Data Structures</p>
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp; open source projects
+<p align="center">open source projects</p>
 
 
 
@@ -24,7 +24,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=💬%20Ask%20me%20about%20...&fontSize=32)
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp; anything
+<p align="center">anything</p>
 
 
 
@@ -32,8 +32,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=📫%20How%20to%20reach%20me:%20...&fontSize=32)
 
 
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
-   [<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)
+  <p align="center">[<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
+   [<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)</p>
 
 
 
@@ -44,7 +44,7 @@
 
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp;   I do programming as a Hobby
+<p align="center">I do programming as a Hobby</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=Job%20Status&fontSize=32)
 
@@ -52,7 +52,7 @@
 
 
 
-Actively Looking 👀
+<p align="center">Actively Looking 👀</p>
 
 
 
@@ -67,7 +67,7 @@ Actively Looking 👀
 
 
 
-<p>
+<p align="center">
 <img height="24" width="24" src="Assets\icons\javascript.svg">
 <img height="24" width="24" src="Assets\icons\html.svg">
 <img height="24" width="24" src="Assets\icons\css.svg">
@@ -85,7 +85,7 @@ Actively Looking 👀
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&section=footer&text=🧰%20Tools&fontSize=24)
 
 
-<p>
+<p align="center">
 <img height="24" width="24" src="Assets\icons\npm.svg">
 <img height="24" width="24" src="Assets\icons\yarn.svg">
 <img height="24" width="24" src="Assets\icons\powershell.svg">
@@ -102,7 +102,7 @@ Actively Looking 👀
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&section=footer&text=🔮%20Frameworks&fontSize=24)
 
 
-<p>
+<p align="center">
 <img height="24" width="24" src="Assets\icons\vue.svg">
 <img height="24" width="24" src="Assets\icons\nuxt.svg">
 <img height="24" width="24" src="Assets\icons\nodejs.svg">
@@ -111,18 +111,7 @@ Actively Looking 👀
 <img height="24" width="24" src="https://threejs.org/files/favicon.ico">
 <img height="24" width="24" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">
 </p>
-
-
-
-
-##  Don't forget to check out my repositories
-
-
-
-[My Repositories](https://github.com/stellarNuke?tab=repositories)
-
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&text=Don't%20forget%20to%20check%20out%20my%20repositories&section=footer&fontSize=90)](https://github.com/stellarNuke?tab=repositories)
 
 
 
