@@ -110,7 +110,9 @@
 <img height="24" width="24" src="https://threejs.org/files/favicon.ico">
 <img height="24" width="24" src="https://www.electronjs.org/images/favicon.b7a59262df48d6563400baf5671da548.ico">
 </p>
-[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&text=Don't%20forget%20to%20check%20out%20my%20repositories&section=footer&fontSize=90)](https://github.com/stellarNuke?tab=repositories)
+
+
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=footer&text=Don't%20forget%20to%20check%20out%20my%20repositories&fontSize=90)](https://github.com/stellarNuke?tab=repositories)
 
 
 
