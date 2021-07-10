@@ -1,7 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90)
 ## Hi There , I am  [Rohit](https://github.com/stellarNuke)
 
 ![codewars](https://www.codewars.com/users/stellar_nuke/badges/small)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+
 ---
 <br>
 
@@ -121,7 +122,7 @@ Actively Looking 👀
 <br>
 
 [My Repositories](https://github.com/stellarNuke?tab=repositories)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
 
 
 
