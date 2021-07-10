@@ -95,6 +95,7 @@ Actively Looking 👀
 <img height="24"  src="https://supabase.io/new/images/logo-dark.png">
 <img height="24"  src="Assets/expressjs.svg">
 <img height="24"  src="Assets/mongodb.svg">
+<img height="24"  src="Assets/git.svg">
 </p>
 
 <br>
