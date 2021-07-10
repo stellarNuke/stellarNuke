@@ -112,7 +112,7 @@
 </p>
 
 
-[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=footer&text=Don't%20forget%20to%20check%20out%20my%20repositories&fontSize=50)](https://github.com/stellarNuke?tab=repositories)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&&section=footer&text=Don't%20forget%20to%20check%20out%20my%20repositories&fontSize=35)](https://github.com/stellarNuke?tab=repositories)
 
 
 
