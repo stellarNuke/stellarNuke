@@ -40,7 +40,7 @@
 ## 📫 How to reach me: ...
 ---
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [<img height="24" width="24" href="" src="Assets\Discord.svg">](https://discord.gg/x7hFCFDh)
-   [<img  width="15%" href="" src="Assets\github.png">](https://github.com/stellarNuke)
+   [<img  height="24" href="" src="Assets\github.png">](https://github.com/stellarNuke)
 
 
 
@@ -70,7 +70,7 @@ Actively Looking 👀
 - ### Languages
 
 ---
-
+<p>
 <img height="24" width="24" src="Assets\icons\javascript.svg">
 <img height="24" width="24" src="Assets\icons\html.svg">
 <img height="24" width="24" src="Assets\icons\css.svg">
@@ -81,12 +81,13 @@ Actively Looking 👀
 <img height="24" width="24" src="Assets\icons\typescript.svg">
 <img height="24" width="24" src="Assets\icons\python.svg">
 <img height="24" width="24" src="Assets\icons\markdown.svg">
-
+</p>
 
 <br><br>
 
 - ### Tools
 ---
+<p>
 <img height="24" width="24" src="Assets\icons\npm.svg">
 <img height="24" width="24" src="Assets\icons\yarn.svg">
 <img height="24" width="24" src="Assets\icons\powershell.svg">
@@ -94,7 +95,7 @@ Actively Looking 👀
 <img height="24"  src="https://supabase.io/new/images/logo-dark.png">
 <img height="24"  src="Assets/expressjs.svg">
 <img height="24"  src="Assets/mongodb.svg">
-
+</p>
 
 <br>
 <br>
