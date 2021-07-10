@@ -6,7 +6,7 @@
 ---
 <br>
 
-- ##  🔭 I’m currently working on ...
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=🔭%20I’m%20currently%20working%20on%20...&fontSize=90)
 
 ---
 
