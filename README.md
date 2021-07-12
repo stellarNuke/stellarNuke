@@ -75,10 +75,10 @@
 <img height="24" width="24" src="Assets\icons\css.svg">
 
 
-<img height="24" width="24" src="Assets\icons\python.svg">
+
 <img height="24" width="24" src="Assets\icons\json.svg">
 <img height="24" width="24" src="Assets\icons\typescript.svg">
-<img height="24" width="24" src="Assets\icons\python.svg">
+
 <img height="24" width="24" src="Assets\icons\markdown.svg">
 </p>
 
