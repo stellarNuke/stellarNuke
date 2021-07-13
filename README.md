@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Rohit,&fontSize=50)](https://github.com/stellarNuke)
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=👋%20Hi%20There,%20I'am%20Nuke,&fontSize=50)](https://github.com/stellarNuke)
 
 ![codewars](https://www.codewars.com/users/stellar_nuke/badges/small)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=48&section=footer&text=🔭%20I’m%20currently%20working%20on%20...&fontSize=32)
